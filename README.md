@@ -1,7 +1,7 @@
 # 🚀 Daily LeetCode Solutions
 
 Welcome to my **Daily LeetCode Practice Repository**!  
-Here, I solve **one LeetCode problem every day** to strengthen my **problem-solving, algorithms, and data structures skills**.  
+Here I solve **one LeetCode problem every day** to strengthen my **problem-solving, data structures & algorithms skills**.  
 
 ---
 
